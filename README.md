@@ -53,6 +53,12 @@ cd perceptron-learning-visualizer
 # Install dependencies with uv (faster, more reliable)
 uv sync
 
+# Activate env (for windows)
+.venv\Scripts\activate
+
+# Activate env (for Linux&MacOs)
+source .venv/bin/activate
+
 # If you don't have uv installed:
 # pip install uv
 # uv sync
