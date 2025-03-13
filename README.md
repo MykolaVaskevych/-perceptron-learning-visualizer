@@ -40,7 +40,7 @@ cd perceptron-learning-visualizer
 pip install -r requirements.txt
 
 # Or install as an editable package
-pip install -e .
+# pip install -e .
 ```
 
 ### Using uv (recommended)
@@ -57,7 +57,7 @@ uv sync
 .venv\Scripts\activate
 
 # Activate env (for Linux&MacOs)
-source .venv/bin/activate
+# source .venv/bin/activate
 
 # If you don't have uv installed:
 # pip install uv
