@@ -33,7 +33,7 @@ The perceptron is one of the earliest machine learning algorithms, designed to m
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/perceptron-learning-visualizer.git
+git clone https://github.com/MykolaVaskevych/perceptron-learning-visualizer.git
 cd perceptron-learning-visualizer
 
 # Install dependencies
@@ -47,7 +47,7 @@ pip install -e .
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/perceptron-learning-visualizer.git
+git clone https://github.com/MykolaVaskevych/perceptron-learning-visualizer.git
 cd perceptron-learning-visualizer
 
 # Install dependencies with uv (faster, more reliable)
