@@ -51,11 +51,11 @@ git clone https://github.com/yourusername/perceptron-learning-visualizer.git
 cd perceptron-learning-visualizer
 
 # Install dependencies with uv (faster, more reliable)
-uv pip install -e .
+uv sync
 
 # If you don't have uv installed:
 # pip install uv
-# uv pip install -e .
+# uv sync
 ```
 
 ### Quick Test
