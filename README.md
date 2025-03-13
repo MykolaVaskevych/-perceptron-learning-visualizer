@@ -217,6 +217,10 @@ This is because XOR is not linearly separable, which means a single perceptron
 cannot learn this function perfectly. You would need a multi-layer network.
 ```
 
+## Screenshots
+
+![Perceptron Learning Algorithm Simulator](Screenshot.png)
+
 ## How It Works
 
 The perceptron works by:
